@@ -1,0 +1,3 @@
+Costs can grow rapidly with demands for finer granularity, greater timeliness, and increased accuracy of the data, especially if large volumes of data must be collected specifically for use in the model. 
+Even in the case where the data are <tag "515647">derived</> from a transaction-fed database, significant costs can be incurred in selecting and processing the data to transform them into the form needed by the model.   
+
